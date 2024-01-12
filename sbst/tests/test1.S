@@ -23,8 +23,16 @@ test1:
 
     # You can write your code here 
 
-    li a0, 0xCAFECAFE    # return value
+    li t0, 0x165f0d65
+    li t1, 0x00000001
+    li t2, 0x095e140a
+    li t3, 0x00000003
+    div t4, t0, t1
+    remu t5, t2, t3
+    sw t4, 4(sp)
+    sw t5, 8(sp)
 
+    li a0, 0xCAFECAFE    # return value
 
     # ABI epilogue
 	lw s11, 8(sp)        # restore callee-saved registers

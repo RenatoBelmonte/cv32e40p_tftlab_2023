@@ -1,0 +1,46 @@
+cd /home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing && \
+./zoix.sim \
+	+vcd+file+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/cv32e40p_top.evcd" \
+	+vcd+dut+cv32e40p_top+tb_top.wrapper_i.top_i \
+	+vcd+verbose \
+	+vcd+verify \
+	-l zoix_logic_sim.log 
+
+                                   Z01X (TM)
+
+               Version T-2022.06-SP2 for linux64 - Nov 15, 2022 
+
+                    Copyright (c) 1999 - 2022 Synopsys, Inc.
+   This software and the associated documentation are proprietary to Synopsys,
+ Inc. This software may only be used in accordance with the terms and conditions
+ of a written license agreement with Synopsys, Inc. All other use, reproduction,
+   or distribution of this software is strictly prohibited.  Licensed Products
+     communicate with Synopsys servers for the purpose of providing software
+    updates, detecting software piracy and verifying that customers are using
+    Licensed Products in conformity with the applicable License Key for such
+  Licensed Products. Synopsys will use information gathered in connection with
+    this process to deliver software updates and pursue software pirates and
+                                   infringers.
+
+ Inclusivity & Diversity - Visit SolvNetPlus to read the "Synopsys Statement on
+            Inclusivity and Diversity" (Refer to article 000036315 at
+                        https://solvnetplus.synopsys.com)
+
+Z01X (TM) Version: T-2022.06-SP2 (64-bit, Nov 15 2022) for Linux 64-bit
+
+Command: zoix.sim +vcd+file+/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/cv32e40p_top.evcd +vcd+dut+cv32e40p_top+tb_top.wrapper_i.top_i +vcd+verbose +vcd+verify -l zoix_logic_sim.log 
+
+Info:    Simulation Started Fri Jan 12 10:59:17 2024
+Info:    Logic Simulation  Host po
+
+Info:    Loading ...      (10:59:17)
+Info:    Initializing ... (10:59:17)
+Info:    Simulating ...   (10:59:17)
+ZOIX INJECTION
+
+Info:    VCD stimulus completed with 0 mismatches.
+
+Info:    Last simulation time was at 3950000 ps
+Info:    Logic Events: 1790879
+Info:    CPU Time: 2.4s ; Elapsed Time: 2.4s ; Data Size: 193.3MB 
+Info:    Simulation Completed Fri Jan 12 10:59:19 2024

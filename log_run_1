@@ -1,0 +1,57 @@
+Iteration 2: K = 1.0
+Info:    VCD stimulus completed with 0 mismatches.
+# Test Coverage:                           3.11%                  3.11%
+Iteration 3: K = 1.5
+Info:    VCD stimulus completed with 0 mismatches.
+# Test Coverage:                          20.70%                 20.70%
+Iteration 4: K = 2.0
+Info:    VCD stimulus completed with 0 mismatches.
+# Test Coverage:                          39.89%                 39.89%
+Iteration 5: K = 2.5
+Info:    VCD stimulus completed with 0 mismatches.
+# Test Coverage:                          40.94%                 40.94%
+Iteration 6: K = 3.0
+Info:    VCD stimulus completed with 0 mismatches.
+# Test Coverage:                          42.00%                 42.00%
+Iteration 7: K = 3.5
+Info:    VCD stimulus completed with 0 mismatches.
+# Test Coverage:                          43.80%                 43.80%
+Iteration 8: K = 4.0
+Info:    VCD stimulus completed with 0 mismatches.
+# Test Coverage:                          44.14%                 44.14%
+Iteration 9: K = 4.5
+Info:    VCD stimulus completed with 0 mismatches.
+# Test Coverage:                          44.71%                 44.71%
+Iteration 10: K = 5.0
+Info:    VCD stimulus completed with 0 mismatches.
+# Test Coverage:                          45.61%                 45.61%
+Iteration 11: K = 5.5
+Info:    VCD stimulus completed with 0 mismatches.
+# Test Coverage:                          46.43%                 46.43%
+Iteration 12: K = 6.0
+Info:    VCD stimulus completed with 0 mismatches.
+# Test Coverage:                          47.00%                 47.00%
+Iteration 13: K = 6.5
+Info:    VCD stimulus completed with 0 mismatches.
+# Test Coverage:                          47.52%                 47.52%
+Iteration 14: K = 7.0
+Info:    VCD stimulus completed with 0 mismatches.
+# Test Coverage:                          47.74%                 47.74%
+Iteration 15: K = 7.5
+Info:    VCD stimulus completed with 0 mismatches.
+# Test Coverage:                          48.02%                 48.02%
+Iteration 16: K = 8.0
+Info:    VCD stimulus completed with 0 mismatches.
+# Test Coverage:                          48.21%                 48.21%
+Iteration 17: K = 8.5
+Info:    VCD stimulus completed with 0 mismatches.
+# Test Coverage:                          48.31%                 48.31%
+Iteration 18: K = 9.0
+Info:    VCD stimulus completed with 0 mismatches.
+# Test Coverage:                          48.56%                 48.56%
+Iteration 19: K = 9.5
+Info:    VCD stimulus completed with 0 mismatches.
+# Test Coverage:                          48.68%                 48.68%
+Iteration 20: K = 10.0
+Info:    VCD stimulus completed with 0 mismatches.
+# Test Coverage:                          48.83%                 48.83%
