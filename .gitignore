@@ -4,6 +4,9 @@ run/*
 # Ignore synthesis directory
 syn/*
 
+# Ignore logs directory
+logs/*
+
 # Ignore all backup directories and files
 bak/
 *.bak
