@@ -1,7 +1,505 @@
 rm -vfr /home/s316792/project/cv32e40p_tftlab_2023/run/*
+"/home/s316792/project/cv32e40p_tftlab_2023/run/pt/pt_shell_command.log" rimosso
+directory rimossa: "/home/s316792/project/cv32e40p_tftlab_2023/run/pt"
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/cv32e40p_top.evcd" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/_lib1_0.qtl" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/_vmake" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/_dbcontainer/tb_top_vopt/work_cv32e40p_decoder_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/_dbcontainer/tb_top_vopt/work_riscv_gnt_stall_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/_dbcontainer/tb_top_vopt/work_cv32e40p_fifo_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/_dbcontainer/tb_top_vopt/work_mm_ram_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/_dbcontainer/tb_top_vopt/work_cv32e40p_controller_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/_dbcontainer/tb_top_vopt/work_cv32e40p_ex_stage_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/_dbcontainer/tb_top_vopt/work_dp_ram_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/_dbcontainer/tb_top_vopt/work_cv32e40p_aligner_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/_dbcontainer/tb_top_vopt/work_cv32e40p_prefetch_controller_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/_dbcontainer/tb_top_vopt/work_cv32e40p_sleep_unit_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/_dbcontainer/tb_top_vopt/work_cv32e40p_cs_registers_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/_dbcontainer/tb_top_vopt/work_tb_top_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/_dbcontainer/tb_top_vopt/work_cv32e40p_if_stage_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/_dbcontainer/tb_top_vopt/work_cv32e40p_int_controller_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/_dbcontainer/tb_top_vopt/work_cv32e40p_register_file_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/_dbcontainer/tb_top_vopt/work_cv32e40p_mult_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/_dbcontainer/tb_top_vopt/work_cv32e40p_id_stage_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/_dbcontainer/tb_top_vopt/work_riscv_rvalid_stall_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/_dbcontainer/tb_top_vopt/work_cv32e40p_tb_subsystem_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/_dbcontainer/tb_top_vopt/__mti.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/_dbcontainer/tb_top_vopt/work_cv32e40p_obi_interface_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/_dbcontainer/tb_top_vopt/work_cv32e40p_compressed_decoder_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/_dbcontainer/tb_top_vopt/work_cv32e40p_random_interrupt_generator_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/_dbcontainer/tb_top_vopt/work_cv32e40p_alu_div_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/_dbcontainer/tb_top_vopt/work_cv32e40p_load_store_unit_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/_dbcontainer/tb_top_vopt/work_cv32e40p_obi_interface_fast__1_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/_dbcontainer/tb_top_vopt/work_cv32e40p_top_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/_dbcontainer/tb_top_vopt/work_cv32e40p_core_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/_dbcontainer/tb_top_vopt/work_cv32e40p_popcnt_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/_dbcontainer/tb_top_vopt/work_cv32e40p_ff_one_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/_dbcontainer/tb_top_vopt/work_cv32e40p_clock_gate_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/_dbcontainer/tb_top_vopt/work_amo_shim_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/_dbcontainer/tb_top_vopt/work_cv32e40p_prefetch_buffer_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/_dbcontainer/tb_top_vopt/work_cv32e40p_alu_fast_0.dbg" rimosso
+directory rimossa: "/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/_dbcontainer/tb_top_vopt"
+directory rimossa: "/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/_dbcontainer"
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/tb_top_vopt/_lib6_0.qpg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/tb_top_vopt/_lib2_0.qtl" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/tb_top_vopt/_lib1_0.qtl" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/tb_top_vopt/_lib5_0.qtl" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/tb_top_vopt/_data/exemptTyCGtb" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/tb_top_vopt/_data/exemptKTohWj" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/tb_top_vopt/_data/exemptmEAsth" rimosso
+directory rimossa: "/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/tb_top_vopt/_data"
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/tb_top_vopt/_lib4_0.qdb" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/tb_top_vopt/_lib2_0.qdb" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/tb_top_vopt/_lib4_0.qtl" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/tb_top_vopt/_lib4_0.qpg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/tb_top_vopt/_lib2_0.qpg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/tb_top_vopt/_lib5_0.qdb" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/tb_top_vopt/_lib3_0.qdb" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/tb_top_vopt/_lib3_0.qpg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/tb_top_vopt/_lib5_0.qpg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/tb_top_vopt/_lib3_0.qtl" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/tb_top_vopt/_lib.qdb" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/tb_top_vopt/_lib6_0.qtl" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/tb_top_vopt/_lib6_0.qdb" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/tb_top_vopt/_lib1_0.qpg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/tb_top_vopt/_lib1_0.qdb" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/tb_top_vopt/_dpi/dpi.tfdb" rimosso
+directory rimossa: "/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/tb_top_vopt/_dpi"
+directory rimossa: "/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/tb_top_vopt"
+directory rimossa: "/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/_tempmsg"
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/_lib.qdb" rimosso
+directory rimossa: "/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/_temp"
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/_info" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/_lib1_0.qpg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/_lib1_0.qdb" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/_dpi/dpi.tfdb" rimosso
+directory rimossa: "/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl/_dpi"
+directory rimossa: "/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_rtl"
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/transcript" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_lib1_0.qtl" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_vmake" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_NAND2_X1_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_cv32e40p_compressed_decoder_1_0_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_cv32e40p_sleep_unit_1_0_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_cv32e40p_alu_div_0_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_riscv_gnt_stall_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_INV_X4_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_NOR4_X1_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_NOR2_X4_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_mm_ram_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_NOR3_X1_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_FA_X1_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_cv32e40p_mult_0_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_NOR4_X2_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_INV_X8_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_CLKBUF_X1_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_cv32e40p_prefetch_buffer_1_0_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_cv32e40p_register_file_1_0_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_dp_ram_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_OAI22_X1_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_AOI21_X1_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_AND2_X1_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_cv32e40p_decoder_1_0_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_cv32e40p_fifo_0_32_2_0_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_NAND4_X2_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_OR3_X1_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_MUX2_X1_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_AND4_X1_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_XOR2_X2_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_OR3_X2_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_cv32e40p_clock_gate_0_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_AND2_X2_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_tb_top_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_NAND3_X1_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_BUF_X1_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_HA_X1_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_BUF_X2_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_riscv_rvalid_stall_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_cv32e40p_tb_subsystem_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_AOI22_X1_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/__mti.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_AOI222_X1_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_NAND4_X1_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_cv32e40p_load_store_unit_1_0_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_AND3_X1_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_cv32e40p_random_interrupt_generator_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_OAI221_X2_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_OR4_X1_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_cv32e40p_id_stage_1_0_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_OAI221_X1_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_cv32e40p_obi_interface_2_0_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_INV_X2_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_cv32e40p_ex_stage_1_0_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_cv32e40p_popcnt_0_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_AOI211_X1_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_AOI211_X2_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_cv32e40p_obi_interface_1_0_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_DFFS_X1_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_cv32e40p_if_stage_1_0_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_DFFR_X1_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_AND4_X2_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_AOI22_X2_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_NAND2_X2_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_OR2_X2_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_XOR2_X1_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_INV_X1_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_OR2_X1_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_NOR3_X4_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_cv32e40p_ff_one_0_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_cv32e40p_prefetch_controller_1_0_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_cv32e40p_top_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_OAI211_X1_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_NOR2_X2_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_OAI211_X2_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_cv32e40p_controller_1_0_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_cv32e40p_aligner_0_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_DFFR_X2_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_XNOR2_X1_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_cv32e40p_int_controller_1_0_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_OAI222_X1_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_cv32e40p_cs_registers_1_0_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_NOR2_X1_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_OR2_X4_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_AOI221_X1_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_OAI21_X2_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_OAI21_X1_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_amo_shim_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_CLKBUF_X2_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_cv32e40p_alu_0_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_cv32e40p_core_1_0_fast_0.dbg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt/work_NOR3_X2_fast_0.dbg" rimosso
+directory rimossa: "/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer/tb_top_vopt"
+directory rimossa: "/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dbcontainer"
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/tb_top_vopt/_lib6_0.qpg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/tb_top_vopt/_lib7_0.qtl" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/tb_top_vopt/_lib9_0.qtl" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/tb_top_vopt/_lib2_0.qtl" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/tb_top_vopt/_lib1_0.qtl" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/tb_top_vopt/_lib5_0.qtl" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/tb_top_vopt/_lib9_0.qpg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/tb_top_vopt/_data/exemptTeEqXi" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/tb_top_vopt/_data/exemptnIaOAS" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/tb_top_vopt/_data/exemptpDFrtz" rimosso
+directory rimossa: "/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/tb_top_vopt/_data"
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/tb_top_vopt/_lib4_0.qdb" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/tb_top_vopt/_lib7_0.qpg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/tb_top_vopt/_lib2_0.qdb" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/tb_top_vopt/_lib4_0.qtl" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/tb_top_vopt/_lib4_0.qpg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/tb_top_vopt/_lib2_0.qpg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/tb_top_vopt/_lib5_0.qdb" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/tb_top_vopt/_lib3_0.qdb" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/tb_top_vopt/_lib3_0.qpg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/tb_top_vopt/_lib5_0.qpg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/tb_top_vopt/_lib3_0.qtl" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/tb_top_vopt/_lib.qdb" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/tb_top_vopt/_lib9_0.qdb" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/tb_top_vopt/_lib8_0.qpg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/tb_top_vopt/_lib6_0.qtl" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/tb_top_vopt/_lib8_0.qtl" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/tb_top_vopt/_lib6_0.qdb" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/tb_top_vopt/_lib7_0.qdb" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/tb_top_vopt/_lib1_0.qpg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/tb_top_vopt/_lib1_0.qdb" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/tb_top_vopt/_lib8_0.qdb" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/tb_top_vopt/_dpi/dpi.tfdb" rimosso
+directory rimossa: "/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/tb_top_vopt/_dpi"
+directory rimossa: "/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/tb_top_vopt"
+directory rimossa: "/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_tempmsg"
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_lib3_0.qdb" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_lib3_0.qpg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_lib3_0.qtl" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_lib.qdb" rimosso
+directory rimossa: "/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_temp"
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_info" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_lib1_0.qpg" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_lib1_0.qdb" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dpi/dpi.tfdb" rimosso
+directory rimossa: "/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing/_dpi"
+directory rimossa: "/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/work_gate_timing"
+"/home/s316792/project/cv32e40p_tftlab_2023/run/questasim/vsim.dbg" rimosso
+directory rimossa: "/home/s316792/project/cv32e40p_tftlab_2023/run/questasim"
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/fault_report.log.14" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/fault_report.log.1" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/fr2fdef.log" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/fmsh.log" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/fr2fdef.log.10" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/fr2fdef.log.14" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/fault_report.log.4" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/fgen_z.log" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/fault_report.log.11" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/fault_report.log.3" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/fr2fdef.log.15" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/fr2fdef.log.5" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__fmsh__/fmdict/design.db" rimosso
+directory rimossa: "/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__fmsh__/fmdict"
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__fmsh__/joblogs/0007-fault_sim.log" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__fmsh__/joblogs/0001-fr2fdef.log" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__fmsh__/joblogs/0009-fault_report.log" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__fmsh__/joblogs/0003-toggle.log" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__fmsh__/joblogs/0002-coats.log" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__fmsh__/joblogs/0008-boots.log" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__fmsh__/joblogs/0005-boots.log" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__fmsh__/joblogs/0010-fault_report.log" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__fmsh__/joblogs/0006-coats.log" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__fmsh__/joblogs/0004-coats.log" rimosso
+directory rimossa: "/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__fmsh__/joblogs"
+directory rimossa: "/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__fmsh__"
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/zoix.sim" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/fr2fdef.log.11" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__globfiles__/cv32e40p_top_sdd_K5.00.rpt" rimosso
+directory rimossa: "/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__globfiles__"
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/fault_report.log.15" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/fr2fdef.log.3" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/fault_report.log.2" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/fault_report.log.9" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/fault_report.log.16" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/fault_report.log.6" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/fault_report.log.8" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/fault_report.log.13" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/cv32e40p_top_tdf.rpt" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/fault_report.log.5" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/fr2fdef.log.8" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/sim.fdef" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/fault_report.log" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/zoix.sim.daidir/prof.sdb" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/zoix.sim.daidir/.normal_done" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/zoix.sim.daidir/vcs_args.txt" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/zoix.sim.daidir/pcc.sdb" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/zoix.sim.daidir/vcselab_misc_hsim_uds.db" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/zoix.sim.daidir/debug_dump/vir.sdb" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/zoix.sim.daidir/debug_dump/.version" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/zoix.sim.daidir/debug_dump/topmodules" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/zoix.sim.daidir/debug_dump/AllModulesSkeletons.sdb" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/zoix.sim.daidir/debug_dump/dumpcheck.db" rimosso
+directory rimossa: "/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/zoix.sim.daidir/debug_dump"
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/zoix.sim.daidir/vcselab_misc_midd.db" rimosso
+directory rimossa: "/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/zoix.sim.daidir"
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/zoix_compile.log" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/sim.zdb" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/fr2fdef.log.9" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/fault_report.log.10" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/fr2fdef.log.7" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/fault_report.log.17" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/testability.txt" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/fr2fdef.log.4" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/fr2fdef.log.6" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__fubs__/design/design.log" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__fubs__/design/fdeffiles.txt" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__fubs__/design/sbst/cv32e40p_top.evcd" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__fubs__/design/sbst/zoix.progress" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__fubs__/design/sbst/sbst.fdef" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__fubs__/design/sbst/sbst.hist" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__fubs__/design/sbst/diagnostics/run.0.1" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__fubs__/design/sbst/diagnostics/fidlist.0.2" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__fubs__/design/sbst/diagnostics/fidlist.0.1" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__fubs__/design/sbst/diagnostics/run.0.3" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__fubs__/design/sbst/diagnostics/run.0.2" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__fubs__/design/sbst/diagnostics/fidlist.0.3" rimosso
+directory rimossa: "/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__fubs__/design/sbst/diagnostics"
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__fubs__/design/sbst/zoix.sim" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__fubs__/design/sbst/fdef.log" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__fubs__/design/sbst/sim.zdb" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__fubs__/design/sbst/zoix.progress_all" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__fubs__/design/sbst/coats.log" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__fubs__/design/sbst/simout-N0" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__fubs__/design/sbst/boots.log" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__fubs__/design/sbst/sbst.flst" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__fubs__/design/sbst/sbst.smap" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__fubs__/design/sbst/sbst.fdef.pass" rimosso
+directory rimossa: "/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__fubs__/design/sbst"
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__fubs__/design/__path__" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__fubs__/design/boots.log" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__fubs__/design/design.flst" rimosso
+directory rimossa: "/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__fubs__/design"
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__fubs__/testid.txt" rimosso
+directory rimossa: "/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__fubs__"
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/sim.csrc/import_dpic.h" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/sim.csrc/.24556.24556.0.compview.txt" rimosso
+directory rimossa: "/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/sim.csrc"
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/fr2fdef.log.1" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/fr2fdef.log.2" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/fault_report.log.12" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/fr2fdef.log.13" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/fr2fdef.log.12" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/fault_report.log.7" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__tests__/sbst/cv32e40p_top.evcd" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__tests__/sbst/sbst.ndv" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__tests__/sbst/zoix.progress" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__tests__/sbst/zoix_rt.log" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__tests__/sbst/zoix.sim" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__tests__/sbst/__fstrobes__" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__tests__/sbst/sbst.vtog" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__tests__/sbst/sim.zdb" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__tests__/sbst/sbst.tmap" rimosso
+directory rimossa: "/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__tests__/sbst"
+directory rimossa: "/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__tests__"
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__tmp__/fsim_status.txt" rimosso
+directory rimossa: "/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/__tmp__"
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/fr2fdef.log.16" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix/zoix_fsim_evcd.log" rimosso
+directory rimossa: "/home/s316792/project/cv32e40p_tftlab_2023/run/zoix"
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/cv32e40p_top_sdd_K1.50.rpt.fsim" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/cv32e40p_top_sdd_K3.00.rpt.fsim" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/cv32e40p_top_sdd_K2.75.rpt" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/cv32e40p_top_sdd_K2.25.rpt.hier" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/cv32e40p_top_sdd_K4.50.rpt" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/cv32e40p_top_sdd_K2.00.rpt" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/cv32e40p_top_sdd_K3.50.rpt.hier" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/cv32e40p_top_sdd_K3.25.rpt" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/cv32e40p_top_sdd_K2.00.rpt.hier" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/cv32e40p_top_sdd_K3.25.rpt.fsim" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/cv32e40p_top_sdd_K1.00.rpt.fsim" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/cv32e40p_top_sdd_K1.75.rpt" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/cv32e40p_top_sdd_K1.25.rpt.hier" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/cv32e40p_top_sdd_K3.75.rpt.fsim" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/cv32e40p_top_sdd_K4.00.rpt" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/cv32e40p_top_sdd_K2.25.rpt.fsim" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/zoix_logic_sim.log" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/zoix.sim" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/cv32e40p_top_sdd_K2.00.rpt.fsim" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/cv32e40p_top_sdd_K5.00.rpt.fsim" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/cv32e40p_top_sdd_K2.25.rpt" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/cv32e40p_top_sdd_K1.25.rpt.fsim" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/cv32e40p_top_sdd_K1.50.rpt" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/cv32e40p_top_sdd_K3.75.rpt" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/cv32e40p_top_sdd_K3.75.rpt.hier" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/cv32e40p_top_sdd_K4.50.rpt.fsim" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/cv32e40p_top_sdd_K4.50.rpt.hier" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/cv32e40p_top_sdd_K5.00.rpt.hier" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/cv32e40p_top_sdd_K4.00.rpt.hier" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/cv32e40p_top_sdd_K2.50.rpt" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/cv32e40p_top_sdd_K3.50.rpt" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/cv32e40p_top_sdd_K2.75.rpt.hier" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/zoix.sim.daidir/prof.sdb" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/zoix.sim.daidir/.normal_done" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/zoix.sim.daidir/vcs_args.txt" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/zoix.sim.daidir/pcc.sdb" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/zoix.sim.daidir/vcselab_misc_hsim_uds.db" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/zoix.sim.daidir/debug_dump/vir.sdb" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/zoix.sim.daidir/debug_dump/.version" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/zoix.sim.daidir/debug_dump/topmodules" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/zoix.sim.daidir/debug_dump/AllModulesSkeletons.sdb" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/zoix.sim.daidir/debug_dump/dumpcheck.db" rimosso
+directory rimossa: "/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/zoix.sim.daidir/debug_dump"
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/zoix.sim.daidir/vcselab_misc_midd.db" rimosso
+directory rimossa: "/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/zoix.sim.daidir"
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/zoix_compile.log" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/sim.zdb" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/cv32e40p_top_sdd_K1.25.rpt" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/cv32e40p_top_sdd_K5.00.rpt" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/cv32e40p_top_sdd_K4.25.rpt" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/cv32e40p_top_sdd_K4.00.rpt.fsim" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/cv32e40p_top_sdd_K4.75.rpt.hier" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/sim.csrc/.23254.23254.0.compview.txt" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/sim.csrc/import_dpic.h" rimosso
+directory rimossa: "/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/sim.csrc"
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/cv32e40p_top_sdd_K1.75.rpt.fsim" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/cv32e40p_top_sdd_K2.50.rpt.hier" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/cv32e40p_top_sdd_K4.25.rpt.fsim" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/cv32e40p_top_sdd_K4.25.rpt.hier" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/cv32e40p_top_sdd_K1.50.rpt.hier" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/cv32e40p_top_sdd_K1.00.rpt.hier" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/cv32e40p_top_sdd_K3.50.rpt.fsim" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/cv32e40p_top_sdd_K4.75.rpt.fsim" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/cv32e40p_top_sdd_K2.50.rpt.fsim" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/cv32e40p_top_sdd_K1.00.rpt" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/cv32e40p_top_sdd_K2.75.rpt.fsim" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/cv32e40p_top_sdd_K3.25.rpt.hier" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/cv32e40p_top_sdd_K4.75.rpt" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/cv32e40p_top_sdd_K3.00.rpt.hier" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/cv32e40p_top_sdd_K3.00.rpt" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing/cv32e40p_top_sdd_K1.75.rpt.hier" rimosso
+directory rimossa: "/home/s316792/project/cv32e40p_tftlab_2023/run/zoix_timing"
 rm -vfr /home/s316792/project/cv32e40p_tftlab_2023/syn/run/*
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/alib-52/NangateOpenCellLibrary_typical_ccs_scan.db.alib" rimosso
+directory rimossa: "/home/s316792/project/cv32e40p_tftlab_2023/syn/run/alib-52"
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/CV32E40P_ALIGNER.mr" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/cv32e40p_aligner-verilog.pvl" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/cv32e40p_aligner-verilog.syn" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/CV32E40P_ALU_DIV.mr" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/cv32e40p_alu_div-verilog.pvl" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/cv32e40p_alu_div-verilog.syn" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/CV32E40P_ALU.mr" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/cv32e40p_alu-verilog.pvl" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/cv32e40p_alu-verilog.syn" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/cv32e40p_apu_core_pkg.pvk" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/CV32E40P_APU_DISP.mr" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/cv32e40p_apu_disp-verilog.pvl" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/cv32e40p_apu_disp-verilog.syn" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/CV32E40P_CLOCK_GATE.mr" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/cv32e40p_clock_gate-verilog.pvl" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/cv32e40p_clock_gate-verilog.syn" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/CV32E40P_COMPRESSED_DECODER.mr" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/cv32e40p_compressed_decoder-verilog.pvl" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/cv32e40p_compressed_decoder-verilog.syn" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/CV32E40P_CONTROLLER.mr" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/cv32e40p_controller-verilog.pvl" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/cv32e40p_controller-verilog.syn" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/CV32E40P_CORE.mr" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/cv32e40p_core-verilog.pvl" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/cv32e40p_core-verilog.syn" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/CV32E40P_CS_REGISTERS.mr" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/cv32e40p_cs_registers-verilog.pvl" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/cv32e40p_cs_registers-verilog.syn" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/CV32E40P_DECODER.mr" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/cv32e40p_decoder-verilog.pvl" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/cv32e40p_decoder-verilog.syn" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/CV32E40P_EX_STAGE.mr" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/cv32e40p_ex_stage-verilog.pvl" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/cv32e40p_ex_stage-verilog.syn" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/CV32E40P_FF_ONE.mr" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/cv32e40p_ff_one-verilog.pvl" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/cv32e40p_ff_one-verilog.syn" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/CV32E40P_FIFO.mr" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/cv32e40p_fifo-verilog.pvl" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/cv32e40p_fifo-verilog.syn" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/cv32e40p_fpu_pkg.pvk" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/CV32E40P_HWLOOP_REGS.mr" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/cv32e40p_hwloop_regs-verilog.pvl" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/cv32e40p_hwloop_regs-verilog.syn" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/CV32E40P_ID_STAGE.mr" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/cv32e40p_id_stage-verilog.pvl" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/cv32e40p_id_stage-verilog.syn" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/CV32E40P_IF_STAGE.mr" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/cv32e40p_if_stage-verilog.pvl" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/cv32e40p_if_stage-verilog.syn" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/CV32E40P_INT_CONTROLLER.mr" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/cv32e40p_int_controller-verilog.pvl" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/cv32e40p_int_controller-verilog.syn" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/CV32E40P_LOAD_STORE_UNIT.mr" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/cv32e40p_load_store_unit-verilog.pvl" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/cv32e40p_load_store_unit-verilog.syn" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/CV32E40P_MULT.mr" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/cv32e40p_mult-verilog.pvl" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/cv32e40p_mult-verilog.syn" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/CV32E40P_OBI_INTERFACE.mr" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/cv32e40p_obi_interface-verilog.pvl" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/cv32e40p_obi_interface-verilog.syn" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/cv32e40p_pkg.pvk" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/CV32E40P_POPCNT.mr" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/cv32e40p_popcnt-verilog.pvl" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/cv32e40p_popcnt-verilog.syn" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/CV32E40P_PREFETCH_BUFFER.mr" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/cv32e40p_prefetch_buffer-verilog.pvl" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/cv32e40p_prefetch_buffer-verilog.syn" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/CV32E40P_PREFETCH_CONTROLLER.mr" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/cv32e40p_prefetch_controller-verilog.pvl" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/cv32e40p_prefetch_controller-verilog.syn" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/CV32E40P_REGISTER_FILE.mr" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/cv32e40p_register_file-verilog.pvl" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/cv32e40p_register_file-verilog.syn" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/CV32E40P_SLEEP_UNIT.mr" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/cv32e40p_sleep_unit-verilog.pvl" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/cv32e40p_sleep_unit-verilog.syn" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/CV32E40P_TOP.mr" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/cv32e40p_top-verilog.pvl" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/cv32e40p_top-verilog.syn" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/run/default.svf" rimosso
 rm -vfr /home/s316792/project/cv32e40p_tftlab_2023/syn/out/run/*
 rm -vfr /home/s316792/project/cv32e40p_tftlab_2023/syn/out/*gsf*
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/out/cv32e40p_top.gsf" rimosso
+"/home/s316792/project/cv32e40p_tftlab_2023/syn/out/cv32e40p_top.gsf.csv" rimosso
 make -C /home/s316792/project/cv32e40p_tftlab_2023/sbst clean 
 make[1]: Entering directory `/home/s316792/project/cv32e40p_tftlab_2023/sbst'
 rm -rf sbst.elf sbst.hex sbst.map 
@@ -1317,7 +1815,7 @@ check_design
 ****************************************
 check_design summary:
 Version:     U-2022.12
-Date:        Tue Jan 23 22:32:07 2024
+Date:        Fri Jan 26 21:12:23 2024
 ****************************************
 
                    Name                                            Total
@@ -6527,8 +7025,8 @@ Information: Updating design information... (UID-85)
    ELAPSED            WORST NEG   SETUP    DESIGN                              LEAKAGE 
     TIME      AREA      SLACK     COST    RULE COST         ENDPOINT            POWER  
   --------- --------- --------- --------- --------- ------------------------- ---------
-    0:01:42   46868.4      0.77     910.1    2728.7                           1411633.0000
-    0:01:43   46811.5      0.83     931.4    2763.2                           1409935.5000
+    0:01:40   46868.4      0.77     910.1    2728.7                           1411633.0000
+    0:01:41   46811.5      0.83     931.4    2763.2                           1409935.5000
 
   Beginning Constant Register Removal
   -----------------------------------
@@ -6577,38 +7075,38 @@ Information: Added key list 'DesignWare' to design 'cv32e40p_aligner_0'. (DDB-72
 
   Beginning Delay Optimization
   ----------------------------
-    0:02:03   33470.8      0.73     443.3     239.9                           774821.8750
-    0:02:21   34070.3      0.00       0.0      96.5                           795625.8750
-    0:02:21   34070.3      0.00       0.0      96.5                           795625.8750
-    0:02:21   34054.7      0.00       0.0     174.3                           795078.6250
-    0:02:24   34005.7      0.00       0.0     179.2                           793943.7500
-    0:02:25   33998.8      0.00       0.0     180.0                           793783.6875
+    0:02:01   33470.8      0.73     443.3     239.9                           774821.8750
+    0:02:18   34070.3      0.00       0.0      96.5                           795625.8750
+    0:02:18   34070.3      0.00       0.0      96.5                           795625.8750
+    0:02:18   34054.7      0.00       0.0     174.3                           795078.6250
+    0:02:21   34005.7      0.00       0.0     179.2                           793943.7500
+    0:02:23   33998.8      0.00       0.0     180.0                           793783.6875
 
   Beginning WLM Backend Optimization
   --------------------------------------
-    0:02:36   31448.9      0.00       0.0     158.3                           661204.4375
-    0:02:38   31167.8      0.00       0.0     152.3                           650137.6250
-    0:02:39   31167.8      0.00       0.0     152.3                           650137.6250
-    0:02:39   31167.8      0.00       0.0     152.3                           650137.6250
-    0:02:42   30579.9      0.00       0.0     135.3                           616529.1875
-    0:02:42   30579.9      0.00       0.0     135.3                           616529.1875
-    0:02:42   30579.9      0.00       0.0     135.3                           616529.1875
-    0:02:42   30579.9      0.00       0.0     135.3                           616529.1875
-    0:02:42   30579.9      0.00       0.0     135.3                           616529.1875
-    0:02:42   30579.9      0.00       0.0     135.3                           616529.1875
-    0:02:42   30579.9      0.00       0.0     135.3                           616529.1875
-    0:02:42   30579.9      0.00       0.0     135.3                           616529.1875
-    0:02:42   30579.9      0.00       0.0     135.3                           616529.1875
-    0:02:42   30579.9      0.00       0.0     135.3                           616529.1875
-    0:02:42   30579.9      0.00       0.0     135.3                           616529.1875
-    0:02:42   30579.9      0.00       0.0     135.3                           616529.1875
-    0:02:42   30579.9      0.00       0.0     135.3                           616529.1875
-    0:02:42   30579.9      0.00       0.0     135.3                           616529.1875
-    0:02:42   30579.9      0.00       0.0     135.3                           616529.1875
-    0:02:42   30579.9      0.00       0.0     135.3                           616529.1875
-    0:02:42   30579.9      0.00       0.0     135.3                           616529.1875
-    0:02:43   30579.9      0.00       0.0     135.3                           616529.1875
-    0:02:43   30579.9      0.00       0.0     135.3                           616529.1875
+    0:02:34   31448.9      0.00       0.0     158.3                           661204.4375
+    0:02:36   31167.8      0.00       0.0     152.3                           650137.6250
+    0:02:36   31167.8      0.00       0.0     152.3                           650137.6250
+    0:02:36   31167.8      0.00       0.0     152.3                           650137.6250
+    0:02:40   30579.9      0.00       0.0     135.3                           616529.1875
+    0:02:40   30579.9      0.00       0.0     135.3                           616529.1875
+    0:02:40   30579.9      0.00       0.0     135.3                           616529.1875
+    0:02:40   30579.9      0.00       0.0     135.3                           616529.1875
+    0:02:40   30579.9      0.00       0.0     135.3                           616529.1875
+    0:02:40   30579.9      0.00       0.0     135.3                           616529.1875
+    0:02:40   30579.9      0.00       0.0     135.3                           616529.1875
+    0:02:40   30579.9      0.00       0.0     135.3                           616529.1875
+    0:02:40   30579.9      0.00       0.0     135.3                           616529.1875
+    0:02:40   30579.9      0.00       0.0     135.3                           616529.1875
+    0:02:40   30579.9      0.00       0.0     135.3                           616529.1875
+    0:02:40   30579.9      0.00       0.0     135.3                           616529.1875
+    0:02:40   30579.9      0.00       0.0     135.3                           616529.1875
+    0:02:40   30579.9      0.00       0.0     135.3                           616529.1875
+    0:02:40   30579.9      0.00       0.0     135.3                           616529.1875
+    0:02:40   30579.9      0.00       0.0     135.3                           616529.1875
+    0:02:40   30579.9      0.00       0.0     135.3                           616529.1875
+    0:02:40   30579.9      0.00       0.0     135.3                           616529.1875
+    0:02:40   30579.9      0.00       0.0     135.3                           616529.1875
 
 
   Beginning Design Rule Fixing  (max_transition)  (max_capacitance)
@@ -6618,12 +7116,12 @@ Information: Added key list 'DesignWare' to design 'cv32e40p_aligner_0'. (DDB-72
    ELAPSED            WORST NEG   SETUP    DESIGN                              LEAKAGE 
     TIME      AREA      SLACK     COST    RULE COST         ENDPOINT            POWER  
   --------- --------- --------- --------- --------- ------------------------- ---------
-    0:02:43   30579.9      0.00       0.0     135.3                           616529.1875
+    0:02:40   30579.9      0.00       0.0     135.3                           616529.1875
   Global Optimization (Phase 33)
   Global Optimization (Phase 34)
   Global Optimization (Phase 35)
-    0:02:43   30590.3      0.00       0.0       0.0                           616958.1250
-    0:02:43   30590.3      0.00       0.0       0.0                           616958.1250
+    0:02:41   30590.3      0.00       0.0       0.0                           616958.1250
+    0:02:41   30590.3      0.00       0.0       0.0                           616958.1250
 
 
   Beginning Leakage Power Optimization  (max_leakage_power 0)
@@ -6633,47 +7131,47 @@ Information: Added key list 'DesignWare' to design 'cv32e40p_aligner_0'. (DDB-72
    ELAPSED            WORST NEG   SETUP    DESIGN                              LEAKAGE 
     TIME      AREA      SLACK     COST    RULE COST         ENDPOINT            POWER  
   --------- --------- --------- --------- --------- ------------------------- ---------
-    0:02:43   30590.3      0.00       0.0       0.0                           616958.1250
-    0:02:43   32621.2      0.00       0.0       0.0                           724897.3125
-    0:02:43   32621.2      0.00       0.0       0.0                           724897.3125
-    0:02:43   32621.2      0.00       0.0       0.0                           724897.3125
-    0:02:46   30723.5      0.00       0.0       0.0                           615047.3750
-    0:02:46   30723.5      0.00       0.0       0.0                           615047.3750
-    0:02:46   30723.5      0.00       0.0       0.0                           615047.3750
-    0:02:46   30723.5      0.00       0.0       0.0                           615047.3750
-    0:02:46   30723.5      0.00       0.0       0.0                           615047.3750
-    0:02:46   30723.5      0.00       0.0       0.0                           615047.3750
-    0:02:46   30723.5      0.00       0.0       0.0                           615047.3750
-    0:02:46   30723.5      0.00       0.0       0.0                           615047.3750
-    0:02:46   30723.5      0.00       0.0       0.0                           615047.3750
-    0:02:46   30723.5      0.00       0.0       0.0                           615047.3750
-    0:02:46   30723.5      0.00       0.0       0.0                           615047.3750
-    0:02:46   30723.5      0.00       0.0       0.0                           615047.3750
-    0:02:46   30723.5      0.00       0.0       0.0                           615047.3750
-    0:02:46   30723.5      0.00       0.0       0.0                           615047.3750
-    0:02:46   30723.5      0.00       0.0       0.0                           615047.3750
-    0:02:46   30723.5      0.00       0.0       0.0                           615047.3750
-    0:02:46   30723.5      0.00       0.0       0.0                           615047.3750
-    0:02:46   30723.5      0.00       0.0       0.0                           615047.3750
-    0:02:46   30723.5      0.00       0.0       0.0                           615047.3750
+    0:02:41   30590.3      0.00       0.0       0.0                           616958.1250
+    0:02:41   32621.2      0.00       0.0       0.0                           724897.3125
+    0:02:41   32621.2      0.00       0.0       0.0                           724897.3125
+    0:02:41   32621.2      0.00       0.0       0.0                           724897.3125
+    0:02:44   30723.5      0.00       0.0       0.0                           615047.3750
+    0:02:44   30723.5      0.00       0.0       0.0                           615047.3750
+    0:02:44   30723.5      0.00       0.0       0.0                           615047.3750
+    0:02:44   30723.5      0.00       0.0       0.0                           615047.3750
+    0:02:44   30723.5      0.00       0.0       0.0                           615047.3750
+    0:02:44   30723.5      0.00       0.0       0.0                           615047.3750
+    0:02:44   30723.5      0.00       0.0       0.0                           615047.3750
+    0:02:44   30723.5      0.00       0.0       0.0                           615047.3750
+    0:02:44   30723.5      0.00       0.0       0.0                           615047.3750
+    0:02:44   30723.5      0.00       0.0       0.0                           615047.3750
+    0:02:44   30723.5      0.00       0.0       0.0                           615047.3750
+    0:02:44   30723.5      0.00       0.0       0.0                           615047.3750
+    0:02:44   30723.5      0.00       0.0       0.0                           615047.3750
+    0:02:44   30723.5      0.00       0.0       0.0                           615047.3750
+    0:02:44   30723.5      0.00       0.0       0.0                           615047.3750
+    0:02:44   30723.5      0.00       0.0       0.0                           615047.3750
+    0:02:44   30723.5      0.00       0.0       0.0                           615047.3750
+    0:02:44   30723.5      0.00       0.0       0.0                           615047.3750
+    0:02:44   30723.5      0.00       0.0       0.0                           615047.3750
 
                                   TOTAL                                                
    ELAPSED            WORST NEG   SETUP    DESIGN                              LEAKAGE 
     TIME      AREA      SLACK     COST    RULE COST         ENDPOINT            POWER  
   --------- --------- --------- --------- --------- ------------------------- ---------
-    0:02:48   30723.5      0.00       0.0       0.0                           615047.3750
-    0:02:51   30319.5      0.03       2.7       0.0                           601693.3750
-    0:02:52   30323.5      0.02       1.5      58.6                           601922.3125
-    0:02:52   30323.5      0.02       1.5      58.6                           601922.3125
-    0:02:54   30328.8      0.02       1.5      58.6                           602058.8125
-    0:02:59   30192.9      0.00       0.1       0.0 core_i/id_stage_i/controller_i/debug_fsm_cs_reg[2]/D 599187.7500
-    0:02:59   30193.9      0.00       0.0       0.0                           599192.0000
-    0:02:59   30193.9      0.00       0.0       0.0                           599192.0000
-    0:02:59   30193.9      0.00       0.0       0.0                           599192.0000
-    0:02:59   30193.9      0.00       0.0       0.0                           599192.0000
-    0:02:59   30193.9      0.00       0.0       0.0                           599192.0000
-    0:02:59   30193.9      0.00       0.0       0.0                           599192.0000
-    0:03:01   30161.7      0.00       0.0       0.9                           597705.5625
+    0:02:45   30723.5      0.00       0.0       0.0                           615047.3750
+    0:02:48   30319.5      0.03       2.7       0.0                           601693.3750
+    0:02:49   30323.5      0.02       1.5      58.6                           601922.3125
+    0:02:49   30323.5      0.02       1.5      58.6                           601922.3125
+    0:02:51   30328.8      0.02       1.5      58.6                           602058.8125
+    0:02:56   30192.9      0.00       0.1       0.0 core_i/id_stage_i/controller_i/debug_fsm_cs_reg[2]/D 599187.7500
+    0:02:56   30193.9      0.00       0.0       0.0                           599192.0000
+    0:02:56   30193.9      0.00       0.0       0.0                           599192.0000
+    0:02:56   30193.9      0.00       0.0       0.0                           599192.0000
+    0:02:56   30193.9      0.00       0.0       0.0                           599192.0000
+    0:02:56   30193.9      0.00       0.0       0.0                           599192.0000
+    0:02:56   30193.9      0.00       0.0       0.0                           599192.0000
+    0:02:58   30161.7      0.00       0.0       0.9                           597705.5625
 Loading db file '/home/s316792/project/cv32e40p_tftlab_2023/syn/techlib/NangateOpenCellLibrary_typical_ccs_scan.db'
 
 
@@ -6942,8 +7440,8 @@ Information: Wrote out tmax lib file(s)1
 quit
 Memory usage for this session 242 Mbytes.
 Memory usage for this session including child processes 252 Mbytes.
-CPU usage for this session 272 seconds ( 0.08 hours ).
-Elapsed time for this session 281 seconds ( 0.08 hours ).
+CPU usage for this session 270 seconds ( 0.07 hours ).
+Elapsed time for this session 276 seconds ( 0.08 hours ).
 
 Thank you...
 ~/project/cv32e40p_tftlab_2023
@@ -7001,7 +7499,7 @@ Report : read_sdf /home/s316792/project/cv32e40p_tftlab_2023/syn/out/cv32e40p_to
 	-max_type sdf_max
 Design : cv32e40p_top
 Version: U-2022.12
-Date   : Tue Jan 23 22:36:48 2024
+Date   : Fri Jan 26 21:17:08 2024
 ****************************************
 
         0 error(s)
@@ -7028,7 +7526,7 @@ report_global_slack -max -nosplit > $env(GSF)
 quit 
 Timing updates: 1 (0 implicit, 1 explicit) (0 incremental, 1 full, 0 logical)
 Noise updates: 0 (0 implicit, 0 explicit) (0 incremental, 0 full)
-Maximum memory usage for this session: 2661.32 MB
+Maximum memory usage for this session: 2661.39 MB
 CPU usage for this session: 17 seconds 
 Elapsed time for this session: 10 seconds
 Diagnostics summary: 2 warnings, 7 informationals
@@ -7036,52 +7534,52 @@ Diagnostics summary: 2 warnings, 7 informationals
 Thank you for using pt_shell!
 Iteration 4: K = 1.00
 Info:    VCD stimulus completed with 0 mismatches.
-# Test Coverage:                           3.48%                  3.48%
+# Test Coverage:                           2.58%                  2.58%
 Iteration 5: K = 1.25
 Info:    VCD stimulus completed with 0 mismatches.
-# Test Coverage:                          24.93%                 24.93%
+# Test Coverage:                          14.92%                 14.92%
 Iteration 6: K = 1.50
 Info:    VCD stimulus completed with 0 mismatches.
-# Test Coverage:                          33.07%                 33.07%
+# Test Coverage:                          19.17%                 19.17%
 Iteration 7: K = 1.75
 Info:    VCD stimulus completed with 0 mismatches.
-# Test Coverage:                          64.27%                 64.27%
+# Test Coverage:                          29.67%                 29.67%
 Iteration 8: K = 2.00
 Info:    VCD stimulus completed with 0 mismatches.
-# Test Coverage:                          69.84%                 69.84%
+# Test Coverage:                          33.74%                 33.74%
 Iteration 9: K = 2.25
 Info:    VCD stimulus completed with 0 mismatches.
-# Test Coverage:                          69.98%                 69.98%
+# Test Coverage:                          34.08%                 34.08%
 Iteration 10: K = 2.50
 Info:    VCD stimulus completed with 0 mismatches.
-# Test Coverage:                          70.08%                 70.08%
+# Test Coverage:                          35.38%                 35.38%
 Iteration 11: K = 2.75
 Info:    VCD stimulus completed with 0 mismatches.
-# Test Coverage:                          70.08%                 70.08%
+# Test Coverage:                          36.22%                 36.22%
 Iteration 12: K = 3.00
 Info:    VCD stimulus completed with 0 mismatches.
-# Test Coverage:                          70.08%                 70.08%
+# Test Coverage:                          37.26%                 37.26%
 Iteration 13: K = 3.25
 Info:    VCD stimulus completed with 0 mismatches.
-# Test Coverage:                          70.21%                 70.21%
+# Test Coverage:                          37.61%                 37.61%
 Iteration 14: K = 3.50
 Info:    VCD stimulus completed with 0 mismatches.
-# Test Coverage:                          70.76%                 70.76%
+# Test Coverage:                          38.61%                 38.61%
 Iteration 15: K = 3.75
 Info:    VCD stimulus completed with 0 mismatches.
-# Test Coverage:                          71.33%                 71.33%
+# Test Coverage:                          38.93%                 38.93%
 Iteration 16: K = 4.00
 Info:    VCD stimulus completed with 0 mismatches.
-# Test Coverage:                          71.80%                 71.80%
+# Test Coverage:                          39.30%                 39.30%
 Iteration 17: K = 4.25
 Info:    VCD stimulus completed with 0 mismatches.
-# Test Coverage:                          72.07%                 72.07%
+# Test Coverage:                          39.50%                 39.50%
 Iteration 18: K = 4.50
 Info:    VCD stimulus completed with 0 mismatches.
-# Test Coverage:                          72.27%                 72.27%
+# Test Coverage:                          39.94%                 39.94%
 Iteration 19: K = 4.75
 Info:    VCD stimulus completed with 0 mismatches.
-# Test Coverage:                          72.30%                 72.30%
+# Test Coverage:                          40.04%                 40.04%
 Iteration 20: K = 5.00
 Info:    VCD stimulus completed with 0 mismatches.
-# Test Coverage:                          72.67%                 72.67%
+# Test Coverage:                          40.47%                 40.47%

@@ -12,8 +12,8 @@ make compile_sbst > logs/compile_log 2>&1
 make questa/compile-timing >> logs/compile_log 2>&1
 make questa/lsim/gate-timing/shell >> logs/compile_log 2>&1
 make zoix/compile-timing >> logs/compile_log 2>&1
-for ((i=2; i<=20; i+=1)); do
-    # Use K as the result  f i multiplied by 0.25
+for ((i=4; i<=20; i+=1)); do
+    # Use K as the result  f i multiplied by 0.25 (*0.1)
     K=$(bc <<< "scale=1; $i * 0.25")
     # Your code here using the variable K
     echo "Iteration $i: K = $K"
